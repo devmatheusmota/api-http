@@ -1,0 +1,14 @@
+{
+  "name": "api-http-node-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": "https://github.com/devmatheusmota/api-http.git",
+  "author": "Matheus Mota <devmatheusmota@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
